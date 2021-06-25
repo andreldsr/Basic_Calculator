@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="segundo_operando">Segundo Operando</string>
+    <string name="primeiro_operando">Primeiro Operando</string>
+    <string name="calcular">Calcular</string>
+    <string name="basic_calculator">Basic Calculator</string>
+    <string name="resultado">Resultado</string>
+    <string name="calculator_icon">Calculator Icon</string>
+
+    <string-array name="operacoes_array">
+        <item>SOMA</item>
+        <item>SUBTRACAO</item>
+        <item>MULTIPLICACAO</item>
+        <item>DIVISAO</item>
+    </string-array>
+</resources>
